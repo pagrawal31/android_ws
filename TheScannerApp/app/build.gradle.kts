@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+
     namespace = "com.example.thescannerapp"
     compileSdk = 34
 
