@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">NFC Check</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="nfcDisplayDefault">NFC Availability Status</string>
+
+    <string name="title_feedback">Feedback</string>
+    <string name="send_to">Send To ...</string>
+    <string name="emailId">care.pstechnology@gmail.com</string>
+    <string name="check_nfc_available">Check if NFC is Available</string>
+
+    <string name="nfc_not_supported">Sorry your device does not support NFC.</string>
+    <string name="enabled">enabled.</string>
+    <string name="disabled">disabled.</string>
+    <string name="nfc_status">This device supports NFC and NFC is </string>
+    <string name="know_more_nfc">Know about NFC</string>
+    <string name="change_nfc_setting">Change NFC Settings</string>
+
+    <string name="share">Share</string>
+    <string name="rate_comment">Rate and Comment</string>
+
+    <!--<string name="app_name">NFC Reader</string>-->
+    <!-- Messages related to NFC Reader -->
+    <string name="intro_message">This is a simple app to read various tags (NDEF, RFID, FeliCa, ISO 14443, etc).\n\nYou use it by holding a tag/card against the back of your device.</string>
+    <string name="error">Error</string>
+    <string name="no_nfc">No NFC found on this device</string>
+    <string name="nfc_disabled">NFC is not enabled. Please go to the wireless settings to enable it.</string>
+    <string name="menu_main_clear_title">Clear all</string>
+    <string name="menu_main_copy">Copy IDs</string>
+    <string name="menu_copy_hex">Hex</string>
+    <string name="menu_copy_reversed_hex">Reversed hex</string>
+    <string name="menu_copy_dec">Dec</string>
+    <string name="menu_copy_reversed_dec">Reversed dec</string>
+    <string name="nothing_scanned">Nothing scanned yet</string>
+    <string name="read_nfc_tag">Read NFC Tag</string>
+    <string name="list_of_nfc_phones">Phones having NFC</string>
+    <string name="openin_browser">Open in Browser</string>
+    <string name="title_apps" translatable="false">Other Apps</string>
+    <string name="ad_description">Art Jewellery Best Prices</string>
+
+</resources>

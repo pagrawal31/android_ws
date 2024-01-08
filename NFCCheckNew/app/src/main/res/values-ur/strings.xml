@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">این ایف سی کی جانچ پڑتال کریں</string>
+    <string name="nfcDisplayDefault">این ایف سی دستیابی کی حیثیت</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">ترتیبات</string>
+
+    <string name="title_feedback">تاثرات</string>
+    <string name="send_to">کے لئے بھیج ...</string>
+    <string name="emailId">care.pstechnology@gmail.com</string>
+    <string name="check_nfc_available">اگر این ایف سی دستیاب ہے تو چیک کریں</string>
+
+    <string name="nfc_not_supported">معذرت، آپ کا آلہ این ایف سی کی حمایت نہیں کرتا.</string>
+    <string name="enabled">فعال</string>
+    <string name="disabled">غیر فعال</string>
+    <string name="nfc_status">یہ آلہ NFC اور این ایف سی کی حمایت کرتا ہے</string>
+    <string name="know_more_nfc">این ایف سی کے بارے میں جانیں</string>
+    <string name="change_nfc_setting">این ایف سی ترتیبات کو تبدیل کریں</string>
+
+    <string name="share">بانٹیں</string>
+    <string name="rate_comment">شرح اور تبصرہ</string>
+
+    <!--<string name="app_name">NFC Reader</string>-->
+    <!-- Messages related to NFC Reader -->
+    <string name="intro_message">یہ مختلف ٹیگ (این ڈی ایف ایف، آریفآئڈی، FeliCa، آئی ایس او 14443، وغیرہ) کو پڑھنے کے لئے ایک آسان اپلی کیشن ہے. \ n \ n آپ اپنے آلے کی پشت کے خلاف ٹیگ / کارڈ کو پکڑ کر اس کا استعمال کرتے ہیں..</string>
+    <string name="error">غلطی</string>
+    <string name="no_nfc">اس آلہ پر کوئی این ایف سی نہیں ملا</string>
+    <string name="nfc_disabled">این ایف سی فعال نہیں ہے. اسے فعال کرنے کے لئے براہ کرم وائرلیس ترتیبات پر جائیں.</string>
+    <string name="menu_main_clear_title">تمام کو صاف کریں</string>
+    <string name="menu_main_copy">Copy IDs</string>
+    <string name="menu_copy_hex">Hex</string>
+    <string name="menu_copy_reversed_hex">Reversed hex</string>
+    <string name="menu_copy_dec">Dec</string>
+    <string name="menu_copy_reversed_dec">خراب شدہ فیصلہ</string>
+    <string name="nothing_scanned">کچھ بھی سکین نہیں</string>
+    <string name="read_nfc_tag">این ایف سی ٹیگ پڑھیں</string>
+    <string name="list_of_nfc_phones">این ایف سی کے فونز</string>
+    <string name="openin_browser">براؤزر میں کھولیں</string>
+    <string name="ad_description">آرٹ جیولری کی بہترین قیمتیں</string>
+
+</resources>

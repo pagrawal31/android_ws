@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.patech.nfccheck.nfccheck">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+        <activity
+            android:name=".WebviewActivity"
+            android:label="@string/list_of_nfc_phones"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:parentActivityName=".MainActivity" />
+
+        <activity
+            android:name=".NfcInfo"
+            android:label="Know More About NFC"
+            android:parentActivityName=".MainActivity" />
+
+        <activity
+            android:name="com.patech.tutorial.TutorialMainActivity"
+            android:label="Know More About NFC"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name="com.patech.tutorial.ChapterActivity"
+            android:label="Know More About NFC"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:parentActivityName="com.patech.tutorial.TutorialMainActivity" />
+
+        <activity android:name="com.patech.reader.NfcTagReader"
+            android:parentActivityName=".MainActivity"
+            android:label="@string/read_nfc_tag">
+            <intent-filter>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="text/plain" />
+                <data android:mimeType="text/scriptlet"/>
+                <data android:mimeType="text/x-nfc-taskl"/>
+                <data android:mimeType="x/nfctl"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.nfc.action.NDEF_DISCOVERED"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:host="tags.to" android:path="/ntl" android:scheme="http"/>
+            </intent-filter>
+        </activity>
+
+
+    </application>
+
+</manifest>

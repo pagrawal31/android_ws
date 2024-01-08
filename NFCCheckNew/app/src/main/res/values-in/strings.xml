@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pemeriksaan NFC</string>
+    <string name="nfcDisplayDefault">Status Ketersediaan NFC</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="title_feedback">Umpan balik</string>
+    <string name="send_to">Kirim ke ...</string>
+    <string name="emailId">care.pstechnology@gmail.com</string>
+    <string name="check_nfc_available">Periksa apakah NFC Tersedia</string>
+
+    <string name="nfc_not_supported">Maaf, perangkat Anda tidak mendukung NFC.</string>
+    <string name="enabled">diaktifkan.</string>
+    <string name="disabled">cacat.</string>
+    <string name="nfc_status">Perangkat ini mendukung NFC dan NFC </string>
+    <string name="know_more_nfc">Ketahui tentang NFC</string>
+    <string name="change_nfc_setting">Ubah Pengaturan NFC</string>
+
+    <string name="share">Bagikan</string>
+    <string name="rate_comment">Nilai dan Komentar</string>
+
+    <!--<string name="app_name">NFC Reader</string>-->
+    <!-- Messages related to NFC Reader -->
+    <string name="intro_message">Ini adalah aplikasi sederhana untuk membaca berbagai tag (NDEF, RFID, FeliCa, ISO 14443, dll.). \ N \ nAnda menggunakannya dengan memegang tag / kartu di bagian belakang perangkat Anda.</string>
+    <string name="error">Kesalahan</string>
+    <string name="no_nfc">Tidak ada NFC yang ditemukan di perangkat ini</string>
+    <string name="nfc_disabled">NFC tidak diaktifkan. Silakan pergi ke pengaturan nirkabel untuk mengaktifkannya.</string>
+    <string name="menu_main_clear_title">Bersihkan semua</string>
+    <string name="menu_main_copy">Copy IDs</string>
+    <string name="menu_copy_hex">Hex</string>
+    <string name="menu_copy_reversed_hex">Reversed hex</string>
+    <string name="menu_copy_dec">Dec</string>
+    <string name="menu_copy_reversed_dec">Reversed dec</string>
+    <string name="nothing_scanned">Belum ada yang dipindai</string>
+    <string name="read_nfc_tag">Baca Tag NFC</string>
+    <string name="list_of_nfc_phones">Ponsel memiliki NFC</string>
+    <string name="openin_browser">Buka di browser</string>
+    <string name="ad_description">Art Jewellery Harga Terbaik</string>
+
+</resources>
