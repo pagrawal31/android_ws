@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">एनएफसी जांचें</string>
+    <string name="nfcDisplayDefault">एनएफसी उपलब्धता की स्थिति</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">सेटिंग्स</string>
+
+    <string name="title_feedback">प्रतिक्रिया</string>
+    <string name="send_to">भेजना ...</string>
+    <string name="emailId">care.pstechnology@gmail.com</string>
+    <string name="check_nfc_available">जांचें कि क्या एनएफसी उपलब्ध है या नहीं</string>
+
+    <string name="nfc_not_supported">क्षमा करें आपका डिवाइस एनएफसी का समर्थन नहीं करता है।</string>
+    <string name="enabled">सक्षम.</string>
+    <string name="disabled">असक्षम.</string>
+    <string name="nfc_status">यह डिवाइस एनएफसी और एनएफसी का समर्थन करता है </string>
+    <string name="know_more_nfc">एनएफसी के बारे में जानें</string>
+    <string name="change_nfc_setting">एनएफसी सेटिंग्स बदलें</string>
+
+    <string name="share">शेयर</string>
+    <string name="rate_comment">दर और टिप्पणी</string>
+
+    <!--<string name="app_name">NFC Reader</string>-->
+    <!-- Messages related to NFC Reader -->
+    <string name="intro_message">यह विभिन्न टैग (एनडीईएफ, आरएफआईडी, फेलिका, आईएसओ 14443, आदि) पढ़ने के लिए एक साधारण ऐप है। \ N \ n आप अपने डिवाइस के पीछे एक टैग / कार्ड धारण करके इसका उपयोग करते हैं।</string>
+    <string name="error">त्रुटि</string>
+    <string name="no_nfc">इस डिवाइस पर कोई एनएफसी नहीं मिला</string>
+    <string name="nfc_disabled">एनएफसी सक्षम नहीं है। इसे सक्षम करने के लिए कृपया वायरलेस सेटिंग्स पर जाएं।</string>
+    <string name="menu_main_clear_title">सभी साफ करें</string>
+    <string name="menu_main_copy">Copy IDs</string>
+    <string name="menu_copy_hex">Hex</string>
+    <string name="menu_copy_reversed_hex">Reversed hex</string>
+    <string name="menu_copy_dec">Dec</string>
+    <string name="menu_copy_reversed_dec">Reversed dec</string>
+    <string name="nothing_scanned">अभी तक कुछ भी स्कैन नहीं किया गया है</string>
+    <string name="read_nfc_tag">एनएफसी टैग पढ़ें</string>
+    <string name="list_of_nfc_phones">एनएफसी वाले फ़ोन</string>
+    <string name="openin_browser">ब्राउज़र में खोलें</string>
+    <string name="ad_description">कला आभूषण सर्वश्रेष्ठ मूल्य</string>
+
+</resources>
